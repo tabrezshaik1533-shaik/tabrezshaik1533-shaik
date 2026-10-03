@@ -1,127 +1,23 @@
 # Amudalapalli-Shaik-Tabrez
 
-# Hi, I'm Shaik Tabrez 👋
+# 💫 About Me:
+# Hi, I'm Shaik Tabrez 👋<br><br>🎓 B.Tech 4th Year student specializing in **Artificial Intelligence & Machine Learning**.<br><br>💻 Interested in **Python, Backend Development, Django, Flask, and AI/ML**.<br><br>🚀 I enjoy building practical projects, learning new technologies, and improving my problem-solving skills.<br><br>🔨 Currently working on projects involving **Python, Web Development, Backend Technologies, and Machine Learning**.<br><br>📌 **Career Interests:** Python Developer | Backend Developer | AI/ML Engineer | Software Developer<br><br>🌱 Always learning. Always building.<br>
 
-### B.Tech | Artificial Intelligence & Machine Learning
 
-I'm a B.Tech 4th-year student specializing in **Artificial Intelligence & Machine Learning**, with a strong interest in **Python, Backend Development, and AI/ML technologies**.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/innocent_boy_tabrez___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shaik Tabrez) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SHAIKTABREZ1533) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tabrezshaik1533@gmail.com) 
 
-I enjoy building practical projects, learning new technologies, and developing solutions that improve my technical and problem-solving skills.
-
----
-
-## 👨‍💻 About Me
-
-* 🎓 B.Tech 4th Year — Artificial Intelligence & Machine Learning
-* 💻 Interested in **Python & Backend Development**
-* 🤖 Passionate about **Artificial Intelligence & Machine Learning**
-* 🌱 Currently improving my skills in **Django, Flask, and Web Development**
-* 🚀 Interested in building real-world software projects
-* 📚 Always learning and exploring new technologies
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat-square&logo=testing-library&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat-square&logo=Meta&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat-square&logo=godot-engine)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=tabrezshaik1533-shaik&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=tabrezshaik1533-shaik&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=tabrezshaik1533-shaik&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=tabrezshaik1533-shaik&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Technical Skills
-
-### Programming
-
-* Python
-* Java
-
-### Web & Backend
-
-* HTML
-* CSS
-* JavaScript
-* Django
-* Flask
-* REST APIs
-* sql
-
-### AI & Machine Learning
-
-* Machine Learning
-* Artificial Intelligence
-* Data Analysis
-* Deep Learning — Fundamentals
-
-### Tools & Technologies
-
-* Git
-* GitHub
-* VS Code
-* Figma
-* Jupyter Notebook
-
----
-
-## 🚀 Projects
-
-### 🎓 Student Management System
-
-A Python-based application designed to manage student information and perform common student management operations.
-
-**Technologies:** Python
-
-### 🎵 Spotify UI/UX Design
-
-Designed a Spotify-inspired user interface as part of a UI/UX project using Figma.
-
-**Technologies:** Figma, UI/UX Design
-
-### 🌐 Personal Portfolio Website
-
-A responsive personal portfolio website showcasing my skills, projects, education, and professional profile.
-
-**Technologies:** HTML, CSS, JavaScript
-
----
-
-## 💼 Internship Experience
-
-### Software Programmer — Python
-
-**CSC India | APSCHE**
-
-Completed a 2-month internship focused on Python programming and software development.
-
-### Artificial Intelligence & Machine Learning Intern
-
-**SmartBridge**
-
-Completed a 2-month internship focused on Artificial Intelligence and Machine Learning concepts and practical applications.
-
----
-
-## 📈 Currently Learning
-
-* Advanced Python
-* Django & Flask
-* Backend Development
-* Machine Learning
-* AI/ML Projects
-* REST API Development
-
----
-
-## 🎯 Career Interests
-
-**Python Developer | Backend Developer | AI/ML Engineer | Software Developer**
-
----
-
-## 📫 Connect With Me
-
-* 💼 LinkedIn: https://www.linkedin.com/in/shaik-tabrez-97638a34a
-* 🌐 Portfolio: https://shaiktabrez-portfolio.netlify.app/
-* 📧 Email: tabrezshaik.tech@gmail.com
-* 📄view my Resume: TABREZ RESUME (2).pdf
-
----
-
-### ⭐ Thanks for visiting my profile!
-
-**Always learning • Always building • Always improving 🚀**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
