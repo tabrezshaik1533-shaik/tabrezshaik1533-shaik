@@ -36,6 +36,7 @@ I enjoy building practical projects, learning new technologies, and developing s
 * Django
 * Flask
 * REST APIs
+* sql
 
 ### AI & Machine Learning
 
@@ -114,7 +115,7 @@ Completed a 2-month internship focused on Artificial Intelligence and Machine Le
 * 💼 LinkedIn: https://www.linkedin.com/in/shaik-tabrez-97638a34a
 * 🌐 Portfolio: https://shaiktabrez-portfolio.netlify.app/
 * 📧 Email: tabrezshaik.tech@gmail.com
-* 📄view my Resume: TABREZ RESUME (2).PDF
+* 📄view my Resume: TABREZ RESUME (2).pdf
 
 ---
 
