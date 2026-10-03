@@ -114,7 +114,7 @@ Completed a 2-month internship focused on Artificial Intelligence and Machine Le
 * 💼 LinkedIn: https://www.linkedin.com/in/shaik-tabrez-97638a34a
 * 🌐 Portfolio: https://shaiktabrez-portfolio.netlify.app/
 * 📧 Email: tabrezshaik.tech@gmail.com
-* 📄 Resume: [Add your resume link]
+* 📄view my Resume: TABREZ RESUME (2).PDF
 
 ---
 
